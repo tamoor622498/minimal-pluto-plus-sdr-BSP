@@ -1,0 +1,5 @@
+ d38242e8bd740ea8fc35cc4fe7436401b39905f2 plutosdr-fw (v0.33-3-gd38242e)
+ a9818ab69cbe2dbbe6c3bfd1ea4634ea17699a46 plutosdr-fw/buildroot (v0.20-20612-ga9818ab69c)
+ 061d024d596ef84c6a819854bf2472e6b43a2d5d plutosdr-fw/hdl (dev_prj_2018_r1-1188-g061d024d5)
+ b05d16429dac38ecfa629c6bd9e5a403b452f57a plutosdr-fw/linux (v5.4-16473-gb05d16429dac)
+ a2c2013a86231af6a61d6e7dca6c1e28a3bc57bf plutosdr-fw/u-boot-xlnx (xilinx-v2016.4-65-ga2c2013a862)
